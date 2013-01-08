@@ -1,8 +1,10 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Dec 25 01:37:28 JST 2012
+#Tue Jan 08 15:37:59 JST 2013
 jabara-jpa-guice-1.0-sources.jar>=
+jabara-jpa-guice-1.0.jar>jabaraster's\ repository=
 jabara-jpa-guice-1.0.jar>=
 jabara-jpa-guice-1.0-javadoc.jar>jabaraster's\ repository=
 jabara-jpa-guice-1.0-javadoc.jar>=
 jabara-jpa-guice-1.0.pom>=
 jabara-jpa-guice-1.0-sources.jar>jabaraster's\ repository=
+jabara-jpa-guice-1.0.pom>jabaraster's\ repository=
