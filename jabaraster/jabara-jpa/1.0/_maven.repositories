@@ -1,6 +1,8 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Jan 08 09:53:37 JST 2013
+#Thu Dec 20 00:33:20 JST 2012
 jabara-jpa-1.0.pom>=
 jabara-jpa-1.0-sources.jar>=
+jabara-jpa-1.0-javadoc.jar>jabaraster's\ repository=
 jabara-jpa-1.0-javadoc.jar>=
+jabara-jpa-1.0-sources.jar>jabaraster's\ repository=
 jabara-jpa-1.0.jar>=
