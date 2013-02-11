@@ -1,4 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Feb 12 06:49:15 JST 2013
+#Tue Feb 12 06:58:08 JST 2013
 jabara-general-1.2.jar>=
+jabara-general-1.2-sources.jar>=
 jabara-general-1.2.pom>=
+jabara-general-1.2-javadoc.jar>=
