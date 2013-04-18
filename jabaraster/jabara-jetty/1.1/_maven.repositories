@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Apr 18 22:05:31 JST 2013
+jabara-jetty-1.1.pom>=
+jabara-jetty-1.1-sources.jar>=
+jabara-jetty-1.1-javadoc.jar>=
+jabara-jetty-1.1.jar>=
