@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archetype-catalog>
+  <archetypes>
+    <archetype>
+      <groupId>jabaraster</groupId>
+      <artifactId>archetype-wicket-jpa</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+      <repository>http://jabaraster.github.com/maven/</repository>
+    </archetype>
+  </archetypes>
+</archetype-catalog>
