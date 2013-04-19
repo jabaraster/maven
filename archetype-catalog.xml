@@ -5,7 +5,7 @@
       <groupId>jabaraster</groupId>
       <artifactId>archetype-wicket-jpa</artifactId>
       <version>1.0</version>
-      <repository>http://jabaraster.github.com/maven/</repository>
+      <repository>http://jabaraster.github.io/maven/</repository>
     </archetype>
   </archetypes>
 </archetype-catalog>
