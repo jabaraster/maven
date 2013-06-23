@@ -1,5 +1,7 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sun Jun 23 21:13:21 JST 2013
+#Sun Jun 23 21:17:39 JST 2013
 archetype-wicket-jpa-1.1-sources.jar>=
 archetype-wicket-jpa-1.1.jar>=
+archetype-wicket-jpa-1.1.jar>archetype-wicket-jpa-repo=
+archetype-wicket-jpa-1.1.pom>archetype-wicket-jpa-repo=
 archetype-wicket-jpa-1.1.pom>=
