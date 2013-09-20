@@ -3,11 +3,10 @@
   <groupId>jabaraster</groupId>
   <artifactId>jabara-bean</artifactId>
   <versioning>
-    <release>1.0-SNAPSHOT2</release>
+    <release>1.0</release>
     <versions>
-      <version>1.0-SNAPSHOT</version>
-      <version>1.0-SNAPSHOT2</version>
+      <version>1.0</version>
     </versions>
-    <lastUpdated>20130708163551</lastUpdated>
+    <lastUpdated>20130920015051</lastUpdated>
   </versioning>
 </metadata>
