@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Jan 10 19:06:09 JST 2014
+#Tue Jan 14 14:25:10 JST 2014
+archetype-wicket-jpa-3.0.jar>archetype-wicket-jpa-repo=
+archetype-wicket-jpa-3.0.pom>archetype-wicket-jpa-repo=
 archetype-wicket-jpa-3.0.jar>=
 archetype-wicket-jpa-3.0.pom>=
