@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 21 12:16:30 JST 2014
+archetype-wicket-jpa-3.3.jar>=
+archetype-wicket-jpa-3.3.pom>=
+archetype-wicket-jpa-3.3-sources.jar>=
