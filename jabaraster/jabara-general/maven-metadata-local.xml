@@ -3,7 +3,7 @@
   <groupId>jabaraster</groupId>
   <artifactId>jabara-general</artifactId>
   <versioning>
-    <release>1.7.1</release>
+    <release>1.7.2</release>
     <versions>
       <version>1.0</version>
       <version>1.1</version>
@@ -12,7 +12,8 @@
       <version>1.4</version>
       <version>1.6</version>
       <version>1.7.1</version>
+      <version>1.7.2</version>
     </versions>
-    <lastUpdated>20140815070430</lastUpdated>
+    <lastUpdated>20140901160357</lastUpdated>
   </versioning>
 </metadata>
