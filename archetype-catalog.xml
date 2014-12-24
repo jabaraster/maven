@@ -7,5 +7,11 @@
       <version>3.4.0</version>
       <repository>http://jabaraster.github.io/maven/</repository>
     </archetype>
+    <archetype>
+      <groupId>info.jabara</groupId>
+      <artifactId>archetype-javaee7-wicket</artifactId>
+      <version>1.0.0</version>
+      <repository>http://jabaraster.github.io/maven/</repository>
+    </archetype>
   </archetypes>
 </archetype-catalog>

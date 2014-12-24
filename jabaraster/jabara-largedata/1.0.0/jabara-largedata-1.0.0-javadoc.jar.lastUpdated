@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Dec 24 21:47:45 JST 2014
+http\://jabaraster.github.io/maven/.error=Could not transfer artifact jabaraster\:jabara-largedata\:jar\:javadoc\:1.0.0 from/to jabaraster's repository (http\://jabaraster.github.io/maven/)\: jabaraster.github.io
+@default-https\://repo.maven.apache.org/maven2/.lastUpdated=1419425265712
+@default-http\://jabaraster.github.io/maven/.lastUpdated=1419425265708
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact jabaraster\:jabara-largedata\:jar\:javadoc\:1.0.0 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

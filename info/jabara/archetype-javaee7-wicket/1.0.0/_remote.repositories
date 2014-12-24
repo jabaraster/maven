@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 25 00:07:17 JST 2014
+archetype-javaee7-wicket-1.0.0.jar>=
+archetype-javaee7-wicket-1.0.0.pom>=
+archetype-javaee7-wicket-1.0.0-sources.jar>=
