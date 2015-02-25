@@ -10,7 +10,7 @@
     <archetype>
       <groupId>info.jabara</groupId>
       <artifactId>archetype-javaee7-wicket</artifactId>
-      <version>1.0.0-SNAPSHOT</version>
+      <version>1.0.0</version>
       <repository>http://jabaraster.github.io/maven/</repository>
     </archetype>
   </archetypes>
