@@ -13,5 +13,11 @@
       <version>1.0.1</version>
       <repository>http://jabaraster.github.io/maven/</repository>
     </archetype>
+    <archetype>
+      <groupId>info.jabara</groupId>
+      <artifactId>archetype-javaee7-simple</artifactId>
+      <version>1.0.0</version>
+      <repository>http://jabaraster.github.io/maven/</repository>
+    </archetype>
   </archetypes>
 </archetype-catalog>
